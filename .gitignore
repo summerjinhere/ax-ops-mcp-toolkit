@@ -1,0 +1,13 @@
+# 실제 업무 파일은 올리지 않는다
+workbooks/*
+!workbooks/.gitkeep
+data/*
+!data/.gitkeep
+*.duckdb
+.env
+.env.*
+.playwright-mcp/
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*
